@@ -1,0 +1,33 @@
+/*------------------------------------*\
+    #HEADINGS
+\*------------------------------------*/
+
+h1,
+.alpha {
+    @include font-size(48px);
+}
+
+h2,
+.beta {
+    @include font-size(36px);
+}
+
+h3,
+.gamma {
+    @include font-size(28px);
+}
+
+h4,
+.delta {
+    @include font-size(24px);
+}
+
+h5,
+.epsilon {
+    @include font-size(18px);
+}
+
+h6,
+.zeta {
+    @include font-size(16px);
+}

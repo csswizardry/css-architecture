@@ -1,0 +1,19 @@
+/*------------------------------------*\
+    #BUTTONS
+\*------------------------------------*/
+
+/**
+ * Extends `.btn` in _objects.buttons.scss.
+ */
+
+.btn {
+    background-color: $color-btn-background;
+
+    &,
+    &:hover,
+    &:active,
+    &:focus {
+        color: $color-btn-text;
+    }
+
+}

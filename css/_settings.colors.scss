@@ -1,0 +1,23 @@
+///*------------------------------------*\
+//    #COLORS
+//\*------------------------------------*/
+
+// Literal color variables.
+
+$color-pink:            #f43059;
+$color-gray-dark:       #424242;
+$color-gray-light:      #f7f6f6;
+
+
+
+
+
+// Assign colors to more meaningful variables.
+
+// Text-level
+$color-text:            $color-gray-dark;
+$color-links:           $color-pink;
+
+// Buttons
+$color-btn-text:        #fff;
+$color-btn-background:  $color-pink;
